@@ -19,8 +19,8 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Coming soon...',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphTwo: 'Coming soon...',
+  paragraphThree: 'Coming soon...',
   resume: 'http://linkedin.com/in/вадим-иванов', // if no resume, the button will not show up
 };
 
@@ -29,8 +29,8 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'Coming soon...',
+    info: 'Coming soon...',
     info2: '',
     url: '',
     repo: '', // if no repo, the button will not show up
