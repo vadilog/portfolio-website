@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "portfolio-website",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "A portfolio website with my resume.",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -52,10 +52,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/vadilog/portfolio-website"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/vadilog/portfolio-website/issues"
   },
   "husky": {
     "hooks": {
@@ -63,13 +63,7 @@
     }
   },
   "lint-staged": {
-    "*.+(js|jsx)": [
-      "eslint --fix",
-      "git add"
-    ],
-    "*.+(json|css|md)": [
-      "prettier --write",
-      "git add"
-    ]
+    "*.+(js|jsx)": ["eslint --fix", "git add"],
+    "*.+(json|css|md)": ["prettier --write", "git add"]
   }
 }

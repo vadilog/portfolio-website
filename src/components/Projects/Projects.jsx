@@ -8,7 +8,6 @@ import ProjectImg from '../Image/ProjectImg';
 
 const Projects = () => {
   const { projects } = useContext(PortfolioContext);
-
   const [isDesktop, setIsDesktop] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
 
