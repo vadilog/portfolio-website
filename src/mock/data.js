@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I am good at analyzing and pattern recognition. These skills make me good at recognizing and finding problems. However, what makes me a great software tester are my interpersonal skills. Improving software quality is a team effort which often comes down to communication.',
+  paragraphOne: 'I am good at analyzing and pattern recognition. These skills make me good at finding problems. However, what makes me a great software tester are my interpersonal skills. Improving software quality is a team effort which often comes down to communication.',
   paragraphTwo: '“A problem well stated is a problem half solved.” --John Dewey',
   paragraphThree: ' ',
   resume: 'http://linkedin.com/in/вадим-иванов', // if no resume, the button will not show up
