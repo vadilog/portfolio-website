@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am good at analyzing and pattern recognition. These skills make me good at finding problems. However, what makes me a great software tester are my interpersonal skills. Improving software quality is a team effort which often comes down to communication.',
   paragraphTwo: '“A problem well stated is a problem half solved.” --John Dewey',
   paragraphThree: ' ',
-  resume: 'http://linkedin.com/in/вадим-иванов', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/uc?export=download&id=1lTtR9lNtc3jPUkRFd6DDmDLYxxT8wHbu', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
